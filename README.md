@@ -12,4 +12,4 @@ No sākuma ir nepieciešams lejupielādēt Rufus un attiecīgā Linuxa iso failu
 
 Kad Rufus ir lejupielādēts, vajag uzspiest uz tā, pēc kā atveras logs.
 
-&nbsp; <img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" />
+&nbsp; <img src="https://raw.githubusercontent.com/Neatkarigais/LinuxInstalacija/main/Rufus.PNG" height="538" width="478" />
