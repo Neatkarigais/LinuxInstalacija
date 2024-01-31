@@ -6,7 +6,7 @@
 <h3> 1. Rufus un Linux failu lejupielādēšana </h3>
 
 No sākuma ir nepieciešams lejupielādēt Rufus un attiecīgā Linuxa iso failu. Rufus ir programma, kas ļaus instalēt Linuxu uz USB atmiņas, izmantojot Linuxa iso failu. Rufus var lejupielādēt, uzspiežot uz https://rufus.ie/lv/.
-Šeit tiks izmantots Ubuntu Linux, kura lejupielādes links ir pieejams šeit: https://ubuntu.com/download/desktop.
+Šeit tiks izmantots Ubuntu Linux, kura lejupielādes links ir pieejams šeit: https://www.linuxmint.com/edition.php?id=311.
 
 <h3> 2. Rufus palaišana </h3>
 
